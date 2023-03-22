@@ -1,0 +1,1 @@
+textDisplay.innerHTML=current

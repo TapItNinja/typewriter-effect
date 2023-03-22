@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Press Start 2P', cursive, sans-serif;
+    
+
+}
+#text{
+    
+    
+    border-color: black;
+    border-style:solid;
+    border-color: white;
+    border-width: 1px;
+    padding: 10px;
+    color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-color: black;
+}
